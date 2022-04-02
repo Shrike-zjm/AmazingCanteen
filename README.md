@@ -1,14 +1,15 @@
-#AmazingCanteen��������ʳ�ò˵�
-ʳ����Ķ���ǧ��ٹ֣�����Ҳ���м�����ʳ���������Ѱ�����Ҳ���м�(ʮ)�����������ô�ұ���......�ܶ���֮�����APP��ʹ�����ǵ�һ���õ�ʳ�ã��������˵����������κλ�����ڵ��޹ع���
+# AmazingCanteen——电子食堂菜单
+食堂里的东西千奇百怪（），也许有几道美食你想向朋友安利，也许有几(十)个窗口你想让大家避雷......总而言之，这个APP的使命就是当一个好的食堂（外卖）菜单，绝不含任何花里胡哨的无关功能
 
-##��װ
-iOS�������˺�ֱ��������Ҳû�����£������ȷŰ�׿�������ӣ��һ��һʱ�����App Store����
-��׿�棺[��������](http://shrike.site/Download/AmazingCanteen.apk)
-##ʹ����ע��
-�����������: JustTest
-�봴��һ����ʽ����||ѧУʳ�ò˵��Ŀ���˽���ң�QQ�� 1974056385
+## 安装
+iOS开发者账号直至今日我也没能拿下，这里先放安卓下载链接，我会第一时间更新App Store链接  
+安卓版：[点我下载](http://shrike.site/Download/AmazingCanteen.apk)
 
-##ʵ����ͼ
+## 使用与注册
+体验版邀请码: JustTest  
+想创建一个正式机构||学校食堂菜单的可以私聊我，QQ： 1974056385
+
+## 实机截图
 ![markdown](http://shrike.site/pic/AC_1.jpg "Pic1")
 ![markdown](http://shrike.site/pic/AC_2.jpg "Pic2")
 ![markdown](http://shrike.site/pic/AC_3.jpg "Pic3")
