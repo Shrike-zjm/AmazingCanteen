@@ -2,7 +2,7 @@
 食堂里的东西千奇百怪（），也许有几道美食你想向朋友安利，也许有几(十)个窗口你想让大家避雷......总而言之，这个APP的使命就是当一个好的食堂（外卖）菜单，绝不含任何花里胡哨的无关功能
 
 ## 安装
-iOS版: [点我下载](https://apps.apple.com/cn/app/amazingcanteen/id1640517634)
+iOS版: [点我下载](https://apps.apple.com/cn/app/amazingcanteen/id1640517634)    
 安卓版：[点我下载](http://shrike.site/Download/AmazingCanteen.apk)
 
 ## 使用与注册
