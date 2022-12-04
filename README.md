@@ -11,9 +11,9 @@ iOS版: [点我下载](https://apps.apple.com/cn/app/amazingcanteen/id1640517634
 
 ## 实机截图
 ![markdown](http://shrike.site/pic/AC_1.jpg "Pic1")
-![markdown](http://shrike.site/pic/AC_2.png "Pic2")
-![markdown](http://shrike.site/pic/AC_3.png "Pic3")
-![markdown](http://shrike.site/pic/AC_4.png "Pic4")
-![markdown](http://shrike.site/pic/AC_5.png "Pic5")
-![markdown](http://shrike.site/pic/AC_6.png "Pic6")  
+![markdown](http://shrike.site/pic/AC_2.jpg "Pic2")
+![markdown](http://shrike.site/pic/AC_3.jpg "Pic3")
+![markdown](http://shrike.site/pic/AC_4.jpg "Pic4")
+![markdown](http://shrike.site/pic/AC_5.jpg "Pic5")
+![markdown](http://shrike.site/pic/AC_6.jpg "Pic6")  
 
