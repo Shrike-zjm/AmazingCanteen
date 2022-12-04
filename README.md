@@ -10,10 +10,10 @@ iOS版: [点我下载](https://apps.apple.com/cn/app/amazingcanteen/id1640517634
 想创建一个正式机构||学校食堂菜单的可以私聊我，QQ： 1974056385
 
 ## 实机截图
-![markdown](http://shrike.site/pic/AC_1.jpg "Pic1")
-![markdown](http://shrike.site/pic/AC_2.jpg "Pic2")
-![markdown](http://shrike.site/pic/AC_3.jpg "Pic3")
-![markdown](http://shrike.site/pic/AC_4.jpg "Pic4")
-![markdown](http://shrike.site/pic/AC_5.jpg "Pic5")
-![markdown](http://shrike.site/pic/AC_6.jpg "Pic6")  
+![markdown](http://shrike.site/pic/AC_01.jpg "Pic1")
+![markdown](http://shrike.site/pic/AC_02.jpg "Pic2")
+![markdown](http://shrike.site/pic/AC_03.jpg "Pic3")
+![markdown](http://shrike.site/pic/AC_04.jpg "Pic4")
+![markdown](http://shrike.site/pic/AC_05.jpg "Pic5")
+![markdown](http://shrike.site/pic/AC_06.jpg "Pic6")  
 
